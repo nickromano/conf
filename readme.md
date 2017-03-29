@@ -58,6 +58,13 @@ Name of the config file (without extension).
 
 Useful if you need multiple config files for your app or module. For example, different config files between two major versions.
 
+#### configExt
+
+Type: `string`<br>
+Default: `json`
+
+File extension of the config file.
+
 #### projectName
 
 Type: `string`<br>
